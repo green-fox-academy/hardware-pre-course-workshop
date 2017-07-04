@@ -1,4 +1,4 @@
-# HW programming course workshop
+# HW programming pre-course workshop
 *Green Fox Academy*
 
 ## Greetings!
