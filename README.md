@@ -39,7 +39,7 @@ After the code is running perfectly in the simulator you can try to build the ha
 on the breadboard. **Please ask a mentor to verify it before you connect the Arduino to a USB port! If you mess something up the USB port could be destroyed!**
 
 To program the Arduino you will need a software which can do that. There is an
-online tool which can be used for this, it is called [Arduino Create](create.arduino.cc).
+online tool which can be used for this, it is called [Arduino Create](https://create.arduino.cc/).
 Another registration is required to use the tool, please sign in and follow the
 setup guide! (probably drivers need to be installed on your machine)
 
