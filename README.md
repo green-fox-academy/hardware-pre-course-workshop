@@ -60,7 +60,7 @@ code editor
 #### b) [Temperature sensor](https://www.tinkercad.com/things/81GMqBe5nqS-2b-using-a-ldr-light-sensor-and-a-ntc-temperature-sensor)
 
 ### 3. Connecting the analog and the digital world
-#### a) [Controlling a FAN](https://www.tinkercad.com/things/81GMqBe5nqS-2b-using-a-ldr-light-sensor-and-a-ntc-temperature-sensor)
+#### a) [Controlling a FAN](https://www.tinkercad.com/things/7WFwB9Dy0pw-3a-switching-a-fan)
 #### b) [Thermostat](https://www.tinkercad.com/things/gDfRwa3iNzJ-3b-thermostat)
 
 ### 4. Electric candle
