@@ -10,7 +10,7 @@ micro development board.
 At first you are going to write smaller programs in JavaScript. This programming
 language is used widely in web development.
 
-Please go to [this](https://greenfox-academy.github.io/hardware.html) site.
+Please go to [this](https://green-fox-academy.github.io/hardware.html) site.
 If you click on the speech bubble you will get more info about the current task,
 the *Green Fox* will guide you through the exercises.
 
